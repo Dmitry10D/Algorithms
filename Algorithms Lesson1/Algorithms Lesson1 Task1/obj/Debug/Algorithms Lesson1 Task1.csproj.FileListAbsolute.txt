@@ -1,0 +1,7 @@
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson1\Algorithms Lesson1 Task1\bin\Debug\Algorithms Lesson1 Task1.exe.config
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson1\Algorithms Lesson1 Task1\bin\Debug\Algorithms Lesson1 Task1.exe
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson1\Algorithms Lesson1 Task1\bin\Debug\Algorithms Lesson1 Task1.pdb
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson1\Algorithms Lesson1 Task1\obj\Debug\Algorithms Lesson1 Task1.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson1\Algorithms Lesson1 Task1\obj\Debug\Algorithms Lesson1 Task1.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson1\Algorithms Lesson1 Task1\obj\Debug\Algorithms Lesson1 Task1.exe
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson1\Algorithms Lesson1 Task1\obj\Debug\Algorithms Lesson1 Task1.pdb
