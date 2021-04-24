@@ -11,6 +11,10 @@ namespace Task1_NodeList
     {
         static void Main(string[] args)
         {
+            while(true)
+            {
+                Console.ReadLine();
+            }
         }
     }
 }
