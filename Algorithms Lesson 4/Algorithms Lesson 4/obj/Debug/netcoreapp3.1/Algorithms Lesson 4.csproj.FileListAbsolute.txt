@@ -1,0 +1,13 @@
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\bin\Debug\netcoreapp3.1\Algorithms Lesson 4.exe
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\bin\Debug\netcoreapp3.1\Algorithms Lesson 4.deps.json
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\bin\Debug\netcoreapp3.1\Algorithms Lesson 4.runtimeconfig.json
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\bin\Debug\netcoreapp3.1\Algorithms Lesson 4.runtimeconfig.dev.json
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\bin\Debug\netcoreapp3.1\Algorithms Lesson 4.dll
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\bin\Debug\netcoreapp3.1\Algorithms Lesson 4.pdb
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\obj\Debug\netcoreapp3.1\Algorithms Lesson 4.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\obj\Debug\netcoreapp3.1\Algorithms Lesson 4.AssemblyInfoInputs.cache
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\obj\Debug\netcoreapp3.1\Algorithms Lesson 4.AssemblyInfo.cs
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\obj\Debug\netcoreapp3.1\Algorithms Lesson 4.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\obj\Debug\netcoreapp3.1\Algorithms Lesson 4.dll
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\obj\Debug\netcoreapp3.1\Algorithms Lesson 4.pdb
+C:\Users\Desyatov_D\source\repos\Algorithms Lesson 4\Algorithms Lesson 4\obj\Debug\netcoreapp3.1\Algorithms Lesson 4.genruntimeconfig.cache
